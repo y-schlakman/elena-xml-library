@@ -1,0 +1,14 @@
+<configuration>
+    <project>
+        <namespace>xmltools</namespace>
+        <template>lib</template>
+        <debuginfo>-1</debuginfo>
+		<options>-w3</options>
+		<output>C:\Users\yschl\Desktop\programs\code\elena.5.0.606-i386\lib50</output>
+    </project>
+    <files>
+        <module>
+            <include>xmlTools.l</include>
+        </module>
+    </files>
+</configuration>
